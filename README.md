@@ -4,6 +4,9 @@
 
 This repository contains the code for a classification model using Support Vector Machines (SVM) to predict survival rates of passengers on the Titanic disaster. The code is implemented in Python 3 and Jupyter Notebook, and uses the Titanic dataset provided by Kaggle.
 
+Link to the competition:
+https://www.kaggle.com/competitions/titanic
+
 
 ## Installation
 
