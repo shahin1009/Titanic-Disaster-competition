@@ -38,6 +38,6 @@ The SVM model in this repository uses the radial basis function (RBF) kernel to 
 
 The model achieves an accuracy of around 78.22% on the test set.
 
-License
+## License
 
 This repository is licensed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software. However, please include a reference to this repository if you use any of the code.
